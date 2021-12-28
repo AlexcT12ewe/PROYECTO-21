@@ -1,2 +1,1 @@
-# Proyecto-21
-proyecto de la clase 21
+# PROC21_Materia_JS_Repetitiva
